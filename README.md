@@ -14,7 +14,7 @@ We want to dive into the weather data help decide where in Hawaii we want to ope
 
 ## Results
 
-<img src="hhttps://github.com/brown-rox20/surfs_up/blob/main/December%20Temps%20Description.png" alt="December Temps Description.png">
+<img src="https://github.com/brown-rox20/surfs_up/blob/main/December%20Temps%20Description.png" alt="December Temps Description.png">
 
 <img src="https://github.com/brown-rox20/surfs_up/blob/main/June%20Temps%20Description.png" alt="June Temps Description.png">
 
