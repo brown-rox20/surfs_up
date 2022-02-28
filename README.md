@@ -12,23 +12,23 @@ Data: hawaii.sqlite
 
 ## Overview of Analysis
 
-We want to dive into the weather data help decide where in Hawaii we want to open up an ice cream shop. Using historical weather data from weather stations around Oahu, we want to know what the average temperature is in the months of June and December in order to determine if the surf and ice cream shop business is sustainable year-round.
+We want to dive into the weather data to help decide where in Hawaii we want to open up an ice cream shop. Using historical weather data from weather stations around Oahu, we want to compare temperature trends in the months of June and December in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
 
-The results below show the the statistical description of 1700 records of temps in June.
+The results below show the statistical description of 1700 records of temperatures in June.
 
 <img src="https://github.com/brown-rox20/surfs_up/blob/main/June%20Temps%20Description.png" alt="June Temps Description.png"
 width="200">
 
-The weather is a nice 75% overall, making it perfect ice cream eating weather. As to be expected these temps are higher that those in December.
+The weather is an average of 75 degrees, making it perfect ice cream eating weather. As to be expected these temperatures are higher that those in December. The max temperature is 85 degrees. Still not too hot to come outside and enjoy ice cream.
 
-The results below show the statistical description of 1517 records of temps in December.
+The results below show the statistical description of 1517 records of temperatures in December.
 
 <img src="https://github.com/brown-rox20/surfs_up/blob/main/December%20Temps%20Description.png" alt="December Temps Description.png"
 width="200">
 
-Though it is not a shock that December temperatures are lower than in June they do not fall much lower. The 50 percentile is 71 degrees, only 4 degrees lower that in June. The max temperature in December is 83 degrees, only 2 degrees lower that in June.
+Though it is not a shock that December temperatures are lower than in June they do not fall that much lower. The 50 percentile is 71 degrees, only 4 degrees lower than in June. The max temperature in December is 83 degrees, only 2 degrees lower than in June.
 
 ## Summary
 
